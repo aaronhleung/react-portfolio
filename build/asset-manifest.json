@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.be24e41c.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.9ef326fc.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.9ef326fc.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.1d992053.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.1d992053.js.map",
+    "static/js/2.102548e6.chunk.js": "/react-portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/react-portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.1cc1642a75c911508a193c09df04775f.js": "/react-portfolio/precache-manifest.1cc1642a75c911508a193c09df04775f.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.be24e41c.chunk.css.map": "/react-portfolio/static/css/main.be24e41c.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/budget-tracker.jpg": "/react-portfolio/static/media/budget-tracker.8f40166b.jpg",
+    "static/media/calculator.jpg": "/react-portfolio/static/media/calculator.938f8fe0.jpg",
+    "static/media/coding-quiz.jpg": "/react-portfolio/static/media/coding-quiz.1bdce907.jpg",
+    "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.71b72d4e.jpg",
+    "static/media/dread-it.jpg": "/react-portfolio/static/media/dread-it.27b03b4b.jpg",
+    "static/media/e-commerce.jpg": "/react-portfolio/static/media/e-commerce.ecc4495e.jpg",
+    "static/media/inspo.jpg": "/react-portfolio/static/media/inspo.ceb9dc3e.jpg",
+    "static/media/note-taker.jpg": "/react-portfolio/static/media/note-taker.555b76bf.jpg",
+    "static/media/ourspace.jpg": "/react-portfolio/static/media/ourspace.cfbb2972.jpg",
+    "static/media/tech-blog.jpg": "/react-portfolio/static/media/tech-blog.03ae8eaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d992053.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.be24e41c.chunk.css",
+    "static/js/main.9ef326fc.chunk.js"
+  ]
+}
